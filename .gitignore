@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.log
 .htaccess
 sitemap.xml
@@ -11,3 +12,8 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+=======
+.DS_Store
+node_modules/
+*.sass-cache*
+>>>>>>> d9959447162a3b255a59f287d339369940dacfb2
